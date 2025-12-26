@@ -1,4 +1,4 @@
-## 📌 Project Overview
+## Project Overview
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/8d1f6bd8-ac92-4cb7-b7d1-54a27485795a" />
 
 
@@ -8,7 +8,7 @@ The goal was to uncover revenue trends, product performance, customer behavior, 
 
 ---
 
-## 🗂 Dataset Summary
+## Dataset Summary
 <img width="256" height="165" alt="image" src="https://github.com/user-attachments/assets/39c695d3-4a29-41f6-91d5-0a5f64ce17fd" />
 
 * **Data Source:** Ferns and Petals sales data (India)
@@ -23,7 +23,7 @@ The goal was to uncover revenue trends, product performance, customer behavior, 
 
 ---
 
-## 🔄 Data Ingestion & Preparation (Excel + Power Query)
+## Data Ingestion & Preparation (Excel + Power Query)
 
 All data processing was handled within Excel:
 
@@ -38,7 +38,7 @@ This step highlights strong ETL and data modeling capabilities using Excel alone
 
 ---
 
-## 📊 Data Analysis
+##  Data Analysis
 
 Using **Pivot Tables and calculated measures**, the following analyses were performed:
 
@@ -52,7 +52,7 @@ Using **Pivot Tables and calculated measures**, the following analyses were perf
 
 ---
 
-## 📈 Dashboard & Visualization
+##  Dashboard & Visualization
 
 An **interactive Excel dashboard** was created to communicate insights clearly to stakeholders. It includes:
 
@@ -64,7 +64,7 @@ This demonstrates strong data storytelling and visualization skills using Excel.
 
 ---
 
-## 💡 Key Business Insights
+##  Key Business Insights
 
 * Peak sales occur in **February and August**
 * **Anniversaries** generate the highest revenue
@@ -76,7 +76,7 @@ This demonstrates strong data storytelling and visualization skills using Excel.
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 
 * Microsoft Excel
 * Power Query
@@ -85,7 +85,7 @@ This demonstrates strong data storytelling and visualization skills using Excel.
 
 ---
 
-## 🎯 Key Skills Demonstrated
+##  Key Skills Demonstrated
 
 * End-to-end Excel data analysis
 * Data modeling and transformation
@@ -95,6 +95,6 @@ This demonstrates strong data storytelling and visualization skills using Excel.
 
 ---
 
-## 📎 Use Case
+##  Use Case
 
 This project is ideal for showcasing Excel expertise in **Data Analyst, BI Analyst, or Reporting Analyst** roles, especially in retail and e-commerce domains.
